@@ -1,4 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/giovannebianchi/next-level-week/master/web/src/assets/images/logo.svg)
+![Logo of the project](https://raw.githubusercontent.com/giovannebianchi/next-level-week/master/web/src/assets/images/alt-logo.svg)
 
 # Proffy - Next Level Week
 Plataforma de aulas online para a Next level Week da Rocketseat
